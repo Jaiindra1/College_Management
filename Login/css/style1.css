@@ -1,0 +1,8 @@
+
+box {
+   display: flex;
+   align-items:center;
+   align-content: center;
+background: url('https://srkit.in/images/about.png') no-repeat;
+ background-size: cover;    
+}
